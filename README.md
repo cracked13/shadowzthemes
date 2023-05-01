@@ -216,13 +216,5 @@
       "opacity": 0.7,
       "imageURL": "https://media.discordapp.net/attachments/1041803590563545199/1059418977991929886/1154476.png?width=1193&height=671"
     },
-  {
-      "title": Sasuke Gif",
-      "id": 27,
-      "description": "Sasuke Gif From Boruto",
-      "status": "Mixed",
-      "opacity": 0.7,
-      "imageURL": "https://cdn.discordapp.com/attachments/1043728067182481459/1047887881236119582/unknown.png"
-    },
   ]
 }
